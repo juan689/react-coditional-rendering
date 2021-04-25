@@ -1,0 +1,11 @@
+.estudent-row-container {
+  border: 2px solid red;
+  text-align: left;
+  margin-bottom: 2px;
+}
+
+.estudiante-without-stock{
+    color: red;
+    font-weight: bold;
+}
+    

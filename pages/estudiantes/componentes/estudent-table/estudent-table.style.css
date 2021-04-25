@@ -1,0 +1,8 @@
+.estudent-table-container {
+    text-align: left;
+    width: 95%;
+    margin: 0 auto;
+    min-height: 390px;
+    margin-top: 10px;
+    border: 1px solid green
+}
